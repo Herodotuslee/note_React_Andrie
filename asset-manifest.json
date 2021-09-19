@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/note_React_Andrie/static/css/main.7282a77c.chunk.css",
+    "main.js": "/note_React_Andrie/static/js/main.56952d96.chunk.js",
+    "main.js.map": "/note_React_Andrie/static/js/main.56952d96.chunk.js.map",
+    "runtime-main.js": "/note_React_Andrie/static/js/runtime-main.25099028.js",
+    "runtime-main.js.map": "/note_React_Andrie/static/js/runtime-main.25099028.js.map",
+    "static/js/2.3e63af55.chunk.js": "/note_React_Andrie/static/js/2.3e63af55.chunk.js",
+    "static/js/2.3e63af55.chunk.js.map": "/note_React_Andrie/static/js/2.3e63af55.chunk.js.map",
+    "static/js/3.5302c058.chunk.js": "/note_React_Andrie/static/js/3.5302c058.chunk.js",
+    "static/js/3.5302c058.chunk.js.map": "/note_React_Andrie/static/js/3.5302c058.chunk.js.map",
+    "index.html": "/note_React_Andrie/index.html",
+    "static/css/main.7282a77c.chunk.css.map": "/note_React_Andrie/static/css/main.7282a77c.chunk.css.map",
+    "static/js/2.3e63af55.chunk.js.LICENSE.txt": "/note_React_Andrie/static/js/2.3e63af55.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/note_React_Andrie/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25099028.js",
+    "static/js/2.3e63af55.chunk.js",
+    "static/css/main.7282a77c.chunk.css",
+    "static/js/main.56952d96.chunk.js"
+  ]
+}
